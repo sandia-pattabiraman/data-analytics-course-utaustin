@@ -1,1 +1,1 @@
-# data-analytics-course-utaustin
+# Data Analytics Course UTAustin
